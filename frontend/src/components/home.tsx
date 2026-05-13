@@ -1,3 +1,7 @@
+
+
+//El archivo Home.tsx esta completamente hacho con IA, en la siguente actividad se realizara desde 0
+
 import { useEffect, useState } from "react";
 import { getPokemon, type Pokemon } from "../services/pokemon.Service";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
